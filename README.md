@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi Everyone!👋 It's me Pradip Khanal 👨‍💻
+# Hi Everyone!👋 It's me Pradip Khanal👨‍💻
 
 
 ## 🌐 Socials:
