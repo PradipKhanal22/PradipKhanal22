@@ -11,7 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PradipKhanal22&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PradipKhanal22&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PradipKhanal22&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
