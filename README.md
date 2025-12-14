@@ -1,7 +1,5 @@
 # 💫 About Me:
 # Hi Everyone!👋 It's me Pradip Khanal👨‍💻
-I’m a passionate Web Developer and IT student (BIM) who loves building clean, modern, and user-friendly web applications. 💻
-✨I enjoy working with technologies like React, Laravel, Tailwind CSS, and JavaScript, and I’m always excited to learn new tools that help turn ideas into real-world digital products. 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pradip.khanal.7528) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradipkhanal_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-khanal-92a97333a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanalpradip74@gmail.com) 
