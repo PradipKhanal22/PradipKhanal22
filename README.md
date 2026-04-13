@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Pradip Khanal</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PradipKhanal22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+
 # 💫 About Me:
 Full Stack Developer from Nepal specializing in Laravel, PHP, and modern web technologies. Passionate about building scalable applications and solving real-world problems.
 
@@ -13,15 +20,14 @@ Full Stack Developer from Nepal specializing in Laravel, PHP, and modern web tec
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PradipKhanal22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PradipKhanal22&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PradipKhanal22&theme=onedark&no-frame=true&margin-w=10&v=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PradipKhanal22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+### 🔝 Top Repositories
+![](https://github-readme-stats.vercel.app/api/pin/?username=PradipKhanal22&repo=REPO1&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=PradipKhanal22&repo=REPO2&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=PradipKhanal22&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
