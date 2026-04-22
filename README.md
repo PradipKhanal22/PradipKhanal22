@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=PradipKhanal22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-
 # 💫 About Me:
 Full Stack Developer from Nepal specializing in Laravel, PHP, and modern web technologies. Passionate about building scalable applications and solving real-world problems.
 
