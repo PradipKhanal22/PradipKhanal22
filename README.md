@@ -98,7 +98,6 @@ class PradipKhanal extends Developer {
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PradipKhanal22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
-
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=PradipKhanal22&theme=tokyonight&hide_border=true" />
 </div>
