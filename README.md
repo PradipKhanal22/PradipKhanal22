@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Laravel+%26+PHP+Specialist;React+%7C+Vue.js+%7C+TypeScript+Developer;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
+
 <br/>
 
 <!-- Profile Views & Social Badges -->
